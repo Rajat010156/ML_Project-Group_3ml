@@ -1,0 +1,27 @@
+# enter into gpu
+ssh sysadm@drona
+
+# go to Documents and creating directory in Documents
+cd Documents
+mkdir 3ml_kkm
+
+# change directory to 3ml_kkm
+cd 3ml_kkm
+
+# creating environment
+python3 -m venv env --system-site-packages
+
+# go to environment and transfer the data from your local machine 
+# (from local machine terminal)
+scp -r chest_xray sysadm@drona:~/Documents/3ml_kkm/env
+
+# go to terminal of drona from local machine and activate the env (/3ml_kkm)
+source env/bin/activate
+
+# to deactivate type deactivate and you can check GPU-usuages by nvidia-smi
+
+# transfer the code file by the same way from local machine
+scp -r Pneumonia_Detection.ipynb sysadm@drona:~/Documents/3ml_kkm/env
+
+# open notebook in server's terminal (confirm that env is activated)
+jupyter notebook --ip 172.20.246.111 (inet)

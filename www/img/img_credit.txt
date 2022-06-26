@@ -1,0 +1,7 @@
+problem_statement: https://miro.medium.com/max/818/1*oLXAc1Tb2JRXBXuMnfDLIQ.png
+data_processing: https://miro.medium.com/max/1200/0*uoJhp9fB0xlgfLN7.png
+eda: https://cdn-images-1.medium.com/max/1094/0*x1zBLby0DoFDGa8v
+train_modle: https://developer.qualcomm.com/sites/default/files/attachments/learning_resources_01-01.png
+interpretation: https://www.link-translations.com/wp-content/uploads/2018/04/interpretation31.jpg
+inferences: https://martech.org/wp-content/uploads/2015/11/idea_1920.jpg
+presentation: https://assets-global.website-files.com/61adffb35299634ed8425f84/61bf89eb1d0781f5e221d696_5f46bd5424fa71052301839e_how%2520to%2520give%2520a%2520presentation%2520in%2520a%2520meeting.jpeg

@@ -1,0 +1,40 @@
+<style>
+
+h1.heading {    
+    color:black;
+    background-color:#f2bff2; 
+    padding:0.2em; 
+    border-bottom: 3px solid #eb0eeb;
+    font-weight: bold;
+    text-align: center;
+    width: 95%;
+    height: 20%;
+    }
+
+/*  h3 tag : id = heading*/
+h3.heading {    
+    color:black;
+    background-color:#bffcff; 
+    padding:0.3em; 
+    border-bottom: 5px solid #3ac0c7; 
+    font-family: "Bookman Old Style", Georgia, serif;
+    font-variant: small-caps;
+    font-weight:bold;
+    text-indent:20px;
+    height: 20%;
+    }
+
+h4.heading {    
+    color:black;
+    background-color:#bcebc8; 
+    padding:0.3em;
+    font-family: "Bookman Old Style", Georgia, serif;
+    font-variant: small-caps;
+    font-weight:bold;
+    text-indent:20px;
+    text-align: center;
+    height: 20%;
+    }
+
+
+ </style>
